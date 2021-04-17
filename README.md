@@ -1,6 +1,6 @@
 # JAVA REST Web Service with JSON Array
 
-Display marvel character json array.
+Building REST Web Service using JSON array that includes some fantastic characters.
 Worked with Apache Tomcat v8.5
 
 
